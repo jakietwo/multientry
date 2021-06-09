@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "fs-extra": "^10.0.0",
+    "glob": "^7.1.7",
     "vue": "^2.6.11"
   },
   "devDependencies": {
